@@ -1,0 +1,4 @@
+echo "Push 1" > file1.txt
+git add file1.txt
+git commit -m "First push"
+git push
